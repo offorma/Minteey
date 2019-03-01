@@ -1,4 +1,4 @@
-# Project Minteey
+# Minteey
 
 A simplistic sign up page 
 
@@ -12,4 +12,5 @@ A simplistic sign up page
 
 * **Chukwunonso Offorma** - [Profile](https://github.com/offorma)
 * **Joshua Tafang**  - [Profile](https://github.com/tafodinho)
+
 
