@@ -70,6 +70,16 @@ input {
 .form-top {
     text-align: center;
 }
+.form-bottom {
+    margin-top: 45px;
+}
+.form-bottom * {
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+
+margin-top: -15px;
+}
 .form-top p:first-child {
     font-size: 24px;
 }
