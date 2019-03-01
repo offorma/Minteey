@@ -1,0 +1,35 @@
+body {
+    background: #ECEEF1 !important;
+}
+.header-section {
+    margin-top: 7px;
+}
+.top-section {
+    background-color: blue;
+    height: 15%;
+}
+.form-section {
+    background-color: orange;
+    height: 70%;
+}
+.footer-section {
+    background-color: purple;
+    height: 20%;
+}
+.right-align {
+    float: right !important
+}
+.nav li {
+    justify-content: left
+}
+.nav li a {
+    margin-top: -27px;
+    font-size: .8em;
+    padding-left: 0px !important;
+}
+.nav li p {
+    font-size: .9em;
+}
+.nav li.nav-item {
+    margin-right: 7px
+}
