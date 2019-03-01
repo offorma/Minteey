@@ -26,6 +26,10 @@ body {
 }
 .footer-section {
     margin-top: 40px;
+    font-size: 12px;
+}
+.footer-section p:last-child {
+    margin-top: -13px;
 }
 .right-align {
     float: right !important
@@ -66,16 +70,12 @@ span.lock-icon {
 input {
     border-radius: 2px !important
 }
-.form-top {
-    text-align: center;
-}
 .form-bottom {
     margin-top: 45px;
 }
 .form-bottom * {
     font-style: italic;
     font-size: 12px;
-    text-align: center;
 
 margin-top: -15px;
 }
@@ -88,7 +88,6 @@ margin-top: -15px;
 .form-footer {
     background-color: #ECEEF1;
     margin: 0 -31px -47px -31px;
-font-size: 10px;
-text-align: center;
-padding: 30px 0px 0px 0px;
+    font-size: 10px;
+    padding: 30px 0px 0px 0px;
 }
