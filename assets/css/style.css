@@ -5,8 +5,21 @@ body {
     margin-top: 7px;
 }
 .top-section {
-    background-color: blue;
     height: 15%;
+}
+.align-center{
+    text-align: center;
+}
+.inline{
+    display: inline;
+}
+.top-section-margin{
+    margin: 5% 5px 5% 5px;
+}
+.align-items-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .form-section {
     background-color: orange;
