@@ -26,7 +26,7 @@ body {
 }
 .footer-section {
     background-color: purple;
-    height: 20%;
+    margin-top: 40px;
 }
 .right-align {
     float: right !important
@@ -85,4 +85,11 @@ margin-top: -15px;
 }
 .form-top p:last-child {
     font-size: 14px;
+}
+.form-footer {
+    background-color: #ECEEF1;
+    margin: 0 -31px -47px -31px;
+font-size: 10px;
+text-align: center;
+padding: 30px 0px 0px 0px;
 }
