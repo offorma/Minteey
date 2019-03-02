@@ -1,35 +1,78 @@
 body {
     background: #ECEEF1 !important;
     color: #4C4C4C;
+    margin-top: 0px !important;
 }
-.header-section {
-    margin-top: 7px;
+.signup-section{
+    width: 100%;
 }
-.top-section {
-    margin-bottom: 25px
+.signup-margin{
+    margin-right: 1%;
+    margin-top: .5%;
 }
+/*align for elements*/
 .align-center{
     text-align: center;
 }
-.inline{
-    display: inline;
-}
-.top-section-margin{
-    margin: 5% 5px 5% 5px;
+.right-align {
+    float: right !important;
+
+}.left-align {
+     float: left !important;
+ }
+.text-align{
+    text-align: center;
 }
 .align-items-center{
     display: flex;
     align-items: center;
     justify-content: center;
 }
+.vertical-align-m{
+    vertical-align: middle;
+}
+/*End of align*/
+.signup-margin-right{
+    margin-right: 5px;
+}
+.signup-text {
+    font-size:12px;
+    margin: 0px;
+    padding: 0px;
+
+}
+top-section {
+    margin-bottom: 20px
+}
+/*inline styling*/
+.inline{
+    display: inline;
+}
+.inline-list {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+/*end of inline*/
+
+.logo-font-size{
+   font-size: 33px;
+}
+
+
+.top-section-margin{
+    margin: 5% 5px;
+}
+.clear-both {
+    clear: both;
+}
+
 .form-section {
 }
 .footer-section {
     margin-top: 40px;
 }
-.right-align {
-    float: right !important
-}
+
 .nav li {
     justify-content: left
 }
@@ -41,8 +84,14 @@ body {
 .nav li p {
     font-size: .9em;
 }
-.nav li.nav-item {
-    margin-right: 7px
+.btn{
+    height: 35px;
+    background-color: #0077C5;
+    color: white;
+    border-radius: 5px;
+    vertical-align: middle;
+
+
 }
 span.lock-icon {
     height: 1em;
@@ -55,7 +104,7 @@ span.lock-icon {
     background-repeat: no-repeat;
 }
 .form {
-    margin: 0 auto;
+    /*margin: 0 auto;*/
     border-style: solid;
     border-width: 1px;
     border-color: rgb(199, 199, 199);;
