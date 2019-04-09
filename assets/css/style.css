@@ -1,0 +1,145 @@
+body {
+    background: #ECEEF1;
+    color: #4C4C4C;
+    margin-top: 0;
+}
+.signup-section{
+    width: 100%;
+}
+.signup-margin{
+    margin-right: 1%;
+    margin-top: .5%;
+}
+/*align for elements*/
+.align-center{
+    text-align: center;
+}
+.right-align {
+    float: right;
+
+}.left-align {
+     float: left
+ }
+.text-align{
+    text-align: center;
+}
+.align-items-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vertical-align-m{
+    vertical-align: middle;
+}
+/*End of align*/
+.signup-margin-right{
+    margin-right: 5px;
+}
+.signup-text {
+    font-size:12px;
+}
+top-section {
+    margin-bottom: 20px
+}
+/*inline styling*/
+.inline{
+    display: inline;
+}
+.inline-list {
+    list-style-type: none;
+}
+/*end of inline*/
+
+.logo-font-size{
+   font-size: 33px;
+}
+
+.top-section-margin{
+    margin: 5% 5px;
+}
+.clear-both {
+    clear: both;
+}
+
+.footer-section {
+    margin-top: 40px;
+    font-size: 12px;
+}
+.footer-section p:last-child {
+    margin-top: -13px;
+}
+
+.btn{
+    height: 35px;
+    background-color: #0077C5;
+    color: white;
+    border-radius: 5px;
+    vertical-align: middle;
+}
+.btn-large{
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+
+.lock-icon {
+    height: 1em;
+    width: .8em;
+    margin-right: 4px;
+    vertical-align: text-top;
+    display: inline-block;
+    background-image: url(../images/lock-icon.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.form {
+    /*margin: 0 auto;*/
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(199, 199, 199);;
+    padding: 31px 31px 0 31px;
+    width: 376px;
+    background: rgb(255, 255, 255);
+}
+
+.form-bottom {
+    font-style: italic;
+    font-size: 12px;
+    margin-top: 35px;
+}
+.form-top-text1 {
+    font-size: 24px;
+}
+.form-top-text2{
+    padding: 0 25px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.2;
+
+}
+.label{
+    display: block;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 6px;
+}
+.form-input{
+    border: 1px solid #C1C5C8;
+    border-radius: 3px;
+    line-height: 1.3em;
+    width: 100%;
+    height: 34px;
+}
+.form-group{
+    margin-bottom: 5%;
+}
+
+.form-footer {
+    background-color: #ECEEF1;
+    margin: 0 -31px 0 -31px;
+    font-size: 10px;
+    padding: 15px 0;
+}
